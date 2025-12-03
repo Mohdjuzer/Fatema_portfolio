@@ -139,7 +139,7 @@ const HeroSection = () => {
               </header>
               
               <p className="text-gray-200 pt-10 text-center mx-auto max-w-[370px] text-lg leading-relaxed tracking-wide">
-                {"Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus adipisci nobis beatae veritatis doloribus sequi quibusdam animi, vitae minus tempore inventore repellendus unde consequuntur? Distinctio ullam repudiandae expedita veritatis praesentium?"
+                {"Passionate data science student focused on turning complex data into meaningful solutions. I am both creative and analytical. I do my best work in team settings, enjoy learning continuously, and strive to make a real difference through my work."
                   .split(" ")
                   .map((word, index) => (
                     <span
